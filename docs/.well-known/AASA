@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "X56PHFT5J3.com.ai.PomelAI",
+        "paths": [
+          "/recipe/*"
+        ]
+      }
+    ]
+  }
+}
